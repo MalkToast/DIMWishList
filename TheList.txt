@@ -1,0 +1,146 @@
+title:MalkToast's personal wishlist
+description:This list mainly exists to remember what Shapable rolls sound good to me, and for when my opinions go against DIM's suggested wishlists and/or popular opinion per light.gg because my playstyle and preferences make some unpopular things sound better to me. But I could just have a poor understanding of weapon stats and game mechanics.
+
+///////////////
+// Shapable //
+///////////////
+
+// Bequest
+//notes:MalkToast, 2023-03-30: Shapable. For whatever reason Bequest has higher impact than any other legendary sword in the game. So if you want to bash things with a sword and want to use an exotic that's not The Lament, this is the one. Relentless Strikes and Surrounded seems like the best all-purpose option, though En Garde allowing at-will activation could be good. MW: Impact
+dimwishlist:item=3366545721&perks=938542991,52780822,1749209109,3708227201
+dimwishlist:item=3366545721&perks=938542991,52780822,1749209109,1685431615
+
+// Brigand's Law
+//notes:MalkToast, 2023-03-30: Shapable. Sidearms just don't seem great, but having Voltshot makes this one pretty fun, and it's a great combo with Feeding Frenzy...but IKELOS_SMG_V1.0.3 also gets it, and at this point SMGs are probably objectively better than sidearms, so that's the one to use if it's an option. If I ever level it I'm giving it Pugilist for the sake of having weapons with trait avaialble when I want them, otherwise I don't have a niche for this. MW: Range
+dimwishlist:item=1298815317&perks=1467527085,3142289711,2779035018,2173046394
+dimwishlist:item=1298815317&perks=1467527085,3142289711,691659142,2173046394
+
+// Calus Mini-Tool
+//notes:MalkToast, 2023-03-30: Shapable. As a rule I try to keep only one version of any shapable weapon in my vault for space reasons and because leveling weapons is a chore - so far this is my only exception. Unrelenting and Incandescent is a great perk combo for Solar PvE builds that like being up close and personal, and I've never felt better in the Crucible than when I was grinding out the MIDA Multi-Tool catalyst with a more PvP friendly perk combo. I'm tempted to keep a MIDA Mini-Tool around on principle so I don't have to keep a dupe, but I don't like its perks well enough. MW: Range
+dimwishlist:item=2490988246&perks=1840239774,3142289711,3108830275,4293542123
+dimwishlist:item=2490988246&perks=1840239774,3142289711,588594999,1890422124
+
+// Caretaker
+//notes:MalkToast, 2023-03-30: Shapable. It's a sword with Incandescent, and making things explode with swords is one of my favorite things to do. I might give Valiant Charge a try but Eager Edge does the same thing and doesn't make me use the block button, which is something I try not to do. MW: Impact
+dimwishlist:item=2508948099&perks=436053704,269888150,2590710093,4293542123
+dimwishlist:item=2508948099&perks=436053704,269888150,1749209109,4293542123
+dimwishlist:item=2508948099&perks=436053704,269888150,2590710093,4274614370
+dimwishlist:item=2508948099&perks=436053704,269888150,1749209109,4274614370
+
+// Doom of Chelchis
+//notes:MalkToast, 2023-03-30: Shapable. I don't know how to pronounce it, and I don't know how I want to build it.  Explosive Payload and Dragonfly is the most popular combo according to light.gg, but if that's how I want to be then I'd take Firefly in the first column. Adaptive Munitions/Repulsor Brace is something I want to experiment with, which may make it a bit too niche. There's plenty of other solid perk combos to choose from that may be more broadly useful, but I like shaping weapons to fill specific niches in my arsenal. I'm not above shaping/leveling two copies if I have good reason to. MW: Range
+dimwishlist:item=1937552980&perks=839105230,3142289711,3038247973,2848615171
+dimwishlist:item=1937552980&perks=839105230,3142289711,3824105627,2848615171
+dimwishlist:item=1937552980&perks=839105230,3142289711,1048183818,776531651
+
+// IKELOS_SR_V1.0.3
+//notes:MalkToast, 2023-03-30: Shapable. Personally not a fan of rapid-fire snipers, but I enjoy snipers with Dragonfly for long-range add clear and Overflow is wonderful for that purpose - I've got a Gallu RR3 with that combo that's a delight to use. Since Incandescent doesn't need accuracy the issues I have with rapid-fire SRs won't matter as much, so this could be sweet, especially with Solar synergies. MW: Range
+dimwishlist:item=2302346155&perks=839105230,1140096971,3643424744,4293542123
+
+// Path of Least Resistance
+//notes:MalkToast, 2023-03-30: Shapable. Voltshot on a Trace Rifle sounds amazing. I lean into Reload Speed for Voltshot weapons, too, so having Omolon Fluid Dynamics as an option is great, especially since the Ambush bonus won't do much here. Similarly, I'm not a fan of Stats for All but it good be my choice here, though I also really like Adaptive Munitions on Trace Rifles. I'm not sure how the damage math works out but they seem to chew through non-matching shields quite nicely compared to other weapons with the perk. The all for all combo is worth pointing out, but I think Voltshot is the only way here. MW: Reload Speed for Voltshot, Range otherwise
+dimwishlist:item=2827764482&perks=839105230,2749775325,1583705720,2173046394,2839173408
+dimwishlist:item=2827764482&perks=839105230,2749775325,1048183818,2173046394,2839173408
+dimwishlist:item=2827764482&perks=839105230,732557052,1583705720,4049631843,2839173408
+
+// Perpetualis
+//notes:MalkToast, 2023-03-30: Shapable. Keep Away feels like the only option in the first column, and while all the options in the second column seem fine depending on use, playstyle, and preference, Hatchling is probably the go-to for novelty on top of being just plain good. There's only two other options for Shapable ARs in the slot and right now (S20) they're harder to get, but there's no shortage of ARs in the slot so there's plenty of potential for a drop to fill the niche of any other options. MW: Range
+dimwishlist:item=392008588&perks=839105230,3142289711,3619207468,831391274
+
+// Posterity
+//notes:MalkToast, 2023-03-30: Voltshot's my only choice for PvE as far as the first column goes. Rampage or Frenzy seem like the obvious choice for the second column, but I like having some Pugilist weapons available for builds that rely on melee. I have a soft spot for Reconstruction in PvP thanks to poor aim and a bad habit of forgetting to reload my weapons when I swap them, so that's under consideration too. MW: Range
+dimwishlist:item=3281285075&perks=1482024992,3142289711,2173046394,3425386926
+dimwishlist:item=3281285075&perks=1482024992,3142289711,2173046394,4104185692
+dimwishlist:item=3281285075&perks=1482024992,3142289711,2173046394,691659142
+dimwishlist:item=3281285075&perks=1482024992,3142289711,1523832109,47981717
+
+// Prodigal Return
+//notes:MalkToast, 2023-03-30: Shapable. Voltshot on a GL sounds potentially interesting, but my gut says it's a novelty. Besides, Envious Assassin seems like the big draw, and it's anti-synergistic with Voltshot. It needs testing but I suspect EA can function similarly to Auto-Loading Holster in most use cases with potential to be better when there's a lot of small fry to mow down. And if there isn't, having to load manually doesn't seem like an issue. The potential to get 2-3 shots makes me want to try Spike Grenades, which doesn't pair very well with ALH. MW: Velocity for Envious Assassin, otherwise Reload Speed
+dimwishlist:item=268260373&perks=981914802,3301904089,4071163871,2173046394
+dimwishlist:item=268260373&perks=981914802,3032599245,968510818,3523296417
+dimwishlist:item=268260373&perks=981914802,3032599245,968510818,1683379515
+dimwishlist:item=268260373&perks=981914802,3301904089,968510818,1683379515
+dimwishlist:item=268260373&perks=981914802,3301904089,968510818,3523296417
+dimwishlist:item=268260373&perks=981914802,3301904089,968510818,3523296417
+
+// Raconteur
+//notes:MalkToast, 2023-03-30: Shapable. The obvious choice is the same as Fel Tarradiddle in a better archetype with a less fun name. Headstone could be good, too, though, especially with Stasis synergies. MW: Draw Time
+dimwishlist:item=45643573&perks=3768438372,16392701,201365942,3365897133
+dimwishlist:item=45643573&perks=3768438372,16392701,201365942,124408337
+
+// Regnant
+//notes:MalkToast, 2023-03-30: Shapable. Disruptor and Destabilizing might be fun if it works, but with how easy it is to get volatile rounds that's just a worse Commemoration, IMO. The explosive light option sounds neat for builds that make lots of orbs, might be good boss DPS but I have no idea how numbers work. MW: Velocity
+dimwishlist:item=268260372&perks=3798852852,3301904089,3300816228,3194351027
+dimwishlist:item=268260372&perks=3798852852,3301904089,3300816228,3194351027
+
+// Royal Executioner
+//notes:MalkToast, 2023-03-30: Shapable. Incandescent and Reservoir Burst are big draws. Envious Assassin is new and exciting, but I don't see much reason for it on weapons that reload quickly anyways unless thre's other synergies, and Reservoir Burst has a lot of potential in that regard. Ideally solar synergies make the difference between which is better, and good Incandescent rolls are easier to find than overflow Reservoir Burst rolls so I'm going to see how it does on crowd control for not-solar builds. MW: Charge Time
+dimwishlist:item=1720503118&perks=839105230,1687452232,968510818,1427256713
+dimwishlist:item=1720503118&perks=839105230,1687452232,1631667848,4293542123
+dimwishlist:item=1720503118&perks=839105230,1687452232,4071163871,4293542123
+
+// The Epicurean
+//notes:MalkToast, 2023-03-30: Shapable. Quickdraw and Backup Plan sound like a fun combo, not sure when I'd want it though. It's a shame that Repulsor Brace and Backup Plan are in the same column, that sounds delightful for how I use Repulsor Brace special ammo weapons. People seem to like the gun for PvP, but Fusions in PvP have never really clicked for me. They feel good when they work but I have a hard time using them, but Snapshot Sights + Rangefinder may be worth a shot. MW: Charge Time
+dimwishlist:item=2263839058&perks=839105230,1687452232,706527188,1600092898
+dimwishlist:item=2263839058&perks=839105230,1687452232,706527188,776531651
+dimwishlist:item=2263839058&perks=839105230,689005463,957782887,2846385770
+
+// Tripwire Canary
+//notes:MalkToast, 2023-03-30: Shapable. Lightweight bows always feel mediocre to me. Dragonfly + Explosive Head is a fun thought though. It's got Archer's Tempo or Rapid Hit to go with Explosive Head, as well, which are tried and tested combos, but with how much I enjoy bows in PvE my toolbox is already pretty full. I might get weird with it and try Sneak Bow and Opening Shot in PvP - along with Ambush it could be something. Maybe I'll go real wild and use Oathkeeper. MW: Draw Speed
+dimwishlist:item=3849444474&perks=3768438372,3429800428,2848615171,3365897133,192157151
+dimwishlist:item=3849444474&perks=3768438372,3429800428,201365942,3365897133,192157151
+dimwishlist:item=3849444474&perks=3768438372,3429800428,247725512,3365897133,192157151
+dimwishlist:item=3849444474&perks=3768438372,3429800428,908147344,47981717,192157151
+
+// Wastelander M5
+//notes:MalkToast, 2023-03-30: Shapable. I don't know which way I want to go here. The choice between Trench Barrel and OTP comes down to build. But that's a PvE consideration, and Slideshot/Opening Shot makes it attractive for PvP. So I'll probably go with that unless I want to level two copies. MW: Range
+dimwishlist:item=1679868061&perks=1047830412,791862061,1820235745,2360754333
+dimwishlist:item=1679868061&perks=1047830412,791862061,1820235745,2679249093
+dimwishlist:item=1679868061&perks=466087222,3142289711,3161816588,47981717
+
+///////////////////
+// Non-Shapable //
+///////////////////
+
+// Basso Ostinato
+//notes:MalkToast, 2023-03-30: I like rapid fire shotguns for OTP, and this one gets Graverobber. Seems like a pretty good combo. Trench Barrel is also an option for melee synergy, but I don't like it so much on rapid fires. Envious Assassin is a perk I'm keeping an eye on, and here I think it might pair well with Destabilizing Rounds. Also curious how Adagio plays out on a shotgun.
+dimwishlist:item=2573900604&perks=1631667848,2679249093
+dimwishlist:item=2573900604&perks=1631667848,2360754333
+dimwishlist:item=2573900604&perks=968510818,2048641572
+dimwishlist:item=2573900604&perks=968510818,3673922083
+
+// Battle Scar
+//notes:MalkToast, 2023-03-30: Kinetic Tremors is what I'm really looking for here. Headseeker and Multikill Clip might be reasonable in the second column. First perk column is kind of whatever, none of the three good perks stands out and the rest are ignorable. I avoid listing barrels/mags on non-shapables because I mostly go by feel, I don't have a solid understanding of what the numbers mean, but Arrowhead Brake is a de facto standard on Pulse Rifles and feels especially necessary here. Which, on the subject of stats, Lightweight Frame pulse rifles rarely impress me but I've got an Encore/Kinetic Tremors on this and it feels pretty good, even though I don't have Arrowhead Brake. I think the Field Tested origin trait might be why - something to think about.
+dimwishlist:item=2099894368&perks=839105230,1195158366,3891536761
+dimwishlist:item=2099894368&perks=839105230,1428297954,3891536761
+dimwishlist:item=2099894368&perks=839105230,3619207468,3891536761
+
+// Harsh Language
+//notes:MalkToast, 2023-03-30: Envious Assassin on breach GLs is something I'm keeping an eye on, and I really like Wave Frames. One with Auto-Loading Holster and Chain Reaction is a dream roll for me, EA and Destabilizing Rounds
+dimwishlist:item=1606497639&perks=968510818,776531651
+dimwishlist:item=1606497639&perks=968510818,1683379515
+dimwishlist:item=1606497639&perks=968510818,2048641572
+dimwishlist:item=1606497639&perks=968510818,3108830275
+
+// Lingering Dread
+//notes:MalkToast, 2023-03-30: Disorienting Grenades and Auto-Loading Holster is always an amazing combo no matter what else a Lightweight Frame GL has, and here you get to add Chill Clip to the mix. Which honestly might be crowd control overkill. I think Chill Clip could benefit from a different reload perk, and here we've got Ambitious Assassin and Feeding Frenzy along with the origin trait. I personally don't like Disorienting without ALH - Spike Grenades would be my pick for that option, maybe High Velocity Rounds for more base reload speed, but they all will make things explode so it's down to preference. Honorable mention to Demolitionist - I'd include entries for it except it's shapable on Pardon Our Dust.
+dimwishlist:item=2026087437&perks=3032599245,3300816228,2978966579
+dimwishlist:item=2026087437&perks=2010801679,2978966579
+dimwishlist:item=2026087437&perks=2779035018,2978966579
+
+// Synchronic Roulette
+//notes:MalkToast, 2023-03-30: I'm likely to hold onto any weapon with Hatchling for synergy purposes as long as it can activate reasonably easily. To that end I'm keeping my eye out for stability and handling here, recoil direction is already nearly vertical so it's not a big priority.
+dimwishlist:item=811403305&perks=1645158859,831391274
+dimwishlist:item=811403305&perks=3619207468,831391274
+
+///////////////
+// Wildcards //
+///////////////
+
+// Disorienting/Auto-Loading GLs
+//notes:MalkToast, 2023-03-30: Any GL with Disorienting Grenades and Auto-Loading Holster is worth considering.
+dimwishlist:item=-69420&perks=3032599245,3300816228
+
+// Valiant Charge Placeholder
+//notes:MalkToast, 2023-03-30: Placeholder entry so I can try Valiant Charge the next time it drops for me.
+dimwishlist:item=-69420&perks=4274614370

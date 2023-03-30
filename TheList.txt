@@ -1,5 +1,5 @@
 title:MalkToast's personal wishlist
-description:This list mainly exists to remember what Shapeable rolls sound good to me, and for when my opinions go against DIM's suggested wishlists and/or popular opinion per light.gg because my playstyle and preferences make some unpopular things sound better to me. But I could just have a poor understanding of weapon stats and game mechanics.
+description:This list mainly exists to remember what shapeable rolls sound good to me, and for when my opinions go against DIM's suggested wishlists and/or popular opinion per light.gg because my playstyle and preferences make some unpopular things sound better to me. But I could just have a poor understanding of weapon stats and game mechanics.
 
 ///////////////
 // Shapeable //

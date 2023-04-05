@@ -140,7 +140,3 @@ dimwishlist:item=811403305&perks=3619207468,831391274
 // Disorienting/Auto-Loading GLs
 //notes:MalkToast, 2023-03-30: Any GL with Disorienting Grenades and Auto-Loading Holster is worth considering.
 dimwishlist:item=-69420&perks=3032599245,3300816228
-
-// Valiant Charge Placeholder
-//notes:MalkToast, 2023-03-30: Placeholder entry so I can try Valiant Charge the next time it drops for me.
-dimwishlist:item=-69420&perks=4274614370
